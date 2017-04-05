@@ -15,7 +15,7 @@ Biggest change in this revision (2.andresraba5) is the conversion to LaTeX, whic
 
 このバージョン(2.andresraba5)での大きな変更はLaTeXへの変換です。これにより大規模なCTANアーカイブが可能にするデザインとカスタマイズの可能性への扉を開きました。また、最新の組版エンジンであるXeTeXが、それがもたらすUnicodeとOpenTypeの良さと共に使用可能です。
 
-* 日本語版ではIPAフォントを使用しました。
+* 日本語版では源ノ角ゴシック・源ノ明朝を使用しました。
 
 Source
 ------
@@ -36,7 +36,7 @@ Chances for successful compilation are increased if you have almost complete ins
 
 * 日本語を通すには最低でもTeX Live 2013が必要です。日本語対応のminghaiは当初は最新の(RCのUbuntu)ディストリのLinux上で
 texi2dviとdvipdfmxを用いてPDF化していました。最終的にはWindowsに最新のW32TeXを入れ、xelatexにてコンパイルしています。
-日本語環境ではIPAフォントをインストールすることが必須です。また実際には足りないスタイルファイルが結構有りますので、
+日本語環境では源ノ角ゴシック・源ノ明朝をインストールすることが必須です。また実際には足りないスタイルファイルが結構有りますので、
 エラーが出る度にCTANにてスタイルファイルを落としてインストールすることを何度かしなければいけませんでした。
 
 If compilation stops with "LaTeX Error: Too many unprocessed floats.", you could try to increase the width and height of text area in [preamble](https://github.com/sarabander/sicp-pdf/blob/master/src/preamble.tex#L70-L71). Newer TeX Live or updated fonts could result in different character metrics, so that some figures no longer fit. The problem is reported in issue [#5](https://github.com/sarabander/sicp-pdf/issues/5).
@@ -45,7 +45,7 @@ If compilation stops with "LaTeX Error: Too many unprocessed floats.", you could
 新しいTeX Liveや更新されたフォントの使用は異なる文字メトリックスの結果を引き起し、いくつかの図が合わなくなる恐れがあります。
 問題がissue [#5](https://github.com/sarabander/sicp-pdf/issues/5)にて報告されています。
 
-* 日本語版の図は第2章まで翻訳しています。残りの図を翻訳して下さる方を募集しています。翻訳される際には、図の中の日本語には特に問題がなければIPAフォントを使用してください。
+* 日本語版の図は第2章まで翻訳しています。残りの図を翻訳して下さる方を募集しています。翻訳される際には、図の中の日本語には特に問題がなければ源ノ角ゴシック・源ノ明朝を使用してください。
 
 To clean up after the build:
 
