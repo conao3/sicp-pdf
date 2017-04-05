@@ -170,7 +170,7 @@
          id="tspan6870"
          x="232.42857"
          y="63.451469"
-         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IPAGothic;-inkscape-font-specification:IPAGothic">有理数を使うプログラム</tspan></text>
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Han Sans JP';-inkscape-font-specification:'Source Han Sans JP Regular'">有理数を使うプログラム</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
@@ -182,7 +182,7 @@
          id="tspan6874"
          x="232"
          y="93.362183"
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IPAMincho;-inkscape-font-specification:IPAMincho">問題ドメインでの有理数</tspan></text>
+         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Han Serif JP';-inkscape-font-specification:'Source Han Serif JP Regular'">問題ドメインでの有理数</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
@@ -206,7 +206,7 @@
          id="tspan6882"
          x="232"
          y="153.36218"
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IPAMincho;-inkscape-font-specification:">分母と分子としての有理数</tspan></text>
+         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Han Serif JP';-inkscape-font-specification:">分母と分子としての有理数</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
@@ -230,7 +230,7 @@
          id="tspan6890"
          x="232"
          y="213.36218"
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IPAMincho;-inkscape-font-specification:IPAMincho">ペアとしての有理数</tspan></text>
+         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Han Serif JP';-inkscape-font-specification:'Source Han Serif JP Regular'">ペアとしての有理数</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
@@ -254,7 +254,7 @@
          id="tspan6898"
          x="232"
          y="273.36218"
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IPAMincho;-inkscape-font-specification:IPAMincho">ペアの実装（何でもよい）</tspan></text>
+         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Han Serif JP';-inkscape-font-specification:'Source Han Serif JP Regular'">ペアの実装（何でもよい）</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
