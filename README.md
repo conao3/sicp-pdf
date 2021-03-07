@@ -91,6 +91,6 @@ The script files `ex-fig-ref.pl, survey.rb,` and `texi-to-latex.pl` are licensed
 
 日本語版ライセンス：
 
-日本語版のsicp.texi、sicp.texはCreative CommonsのCC BY-SA｜します。改変、再配布は同じCC BY-SA 4.0にて行う限り自由に行っていただいてかまいません。
+日本語版のsicp.texi、sicp.texはCreative CommonsのCC BY-SAとします。改変、再配布は同じCC BY-SA 4.0にて行う限り自由に行っていただいてかまいません。
 
 また`ex-fig-ref.pl, survey.rb,texi-to-latex.pl`は元の作者であるAndres Raba氏の指定によりGPL v3です。
