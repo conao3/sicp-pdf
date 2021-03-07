@@ -85,14 +85,12 @@ License
 
 WARNING: This is not a translation. This is a license only for MY Japanese version.
 
-The files `sicp.texi, sicp.tex, sicp.pdf,` and the diagrams in directory `src/fig` are licensed under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License ([CC BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/3.0/)).
-
-I (minghai) added NC constraints to original (PDF's) CC BY-SA license because MIT changed its license of SICP to CC BY-NC (from CC BY-SA), recently. I believe there's no need to do this, but I just want to respect the MIT's decision.
+The files `sicp.texi, sicp.tex, sicp.pdf,` and the diagrams in directory `src/fig` are licensed under Creative Commons Attribution-ShareAlike 4.0 Unported License ([CC BY-SA](http://creativecommons.org/licenses/by-sa/4.0/)).
           
 The script files `ex-fig-ref.pl, survey.rb,` and `texi-to-latex.pl` are licensed under GNU General Public License version 3 (for details, see src/LICENSE). (as-is the same with the original PDF version).
 
 日本語版ライセンス：
 
-日本語版のsicp.texi、sicp.texはCreative CommonsのCC BY-NC-SAとさせて頂きます。改変、再配布は同じCC BY-NC-SA 3.0にて行う限り自由に行って頂いてかまいません。ただし、NCですので非商業活動に限定します。これは元々のMITサイトのSICP配布ライセンスの変更に従う物です。
+日本語版のsicp.texi、sicp.texはCreative CommonsのCC BY-SA｜します。改変、再配布は同じCC BY-SA 4.0にて行う限り自由に行っていただいてかまいません。
 
 また`ex-fig-ref.pl, survey.rb,texi-to-latex.pl`は元の作者であるAndres Raba氏の指定によりGPL v3です。
